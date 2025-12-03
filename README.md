@@ -8,3 +8,5 @@ NileDefender is a self-hosted security tool engineered for penetration testers a
 # Pages Design 
 https://excalidraw.com/#json=oSrZnZ1vgoIohU6cgz77o,zaioTUhpKSf5YYQ9UVrsIA
 
+# System Arch
+https://excalidraw.com/#json=opjfKkRATAPZveyIDOy9I,2x7sTI-w_oYqYZ4ZfMcQCg
